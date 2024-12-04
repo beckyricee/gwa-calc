@@ -7,7 +7,7 @@ Built with Vue.js and Typescript, by a student, for students.
 
 ## Features
 
-* GWA calculation
+* [gwa calculator](https://gwa-calculator.net/)
 * Support for up to 5 sets of 20 subjects
 * Grade transmutation and preset subjects for Philippine Science High School students
 * Share subject sets and calculate with your friends through in-app QR codes
